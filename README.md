@@ -1,6 +1,6 @@
 # Python Snake Game
 
-A classic Snake Game implemented in Python. Navigate the snake to collect food, grow in length, and avoid collisions with the walls or yourself. 
+A classic Snake Game implemented in Python. Navigate the snake to collect food, grow in length, and avoid collisions with the walls or yourself. This project demonstrates fundamental concepts in game development, including game loops, event handling, and simple graphics using the Pygame library.
 
 ## Features
 
