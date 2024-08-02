@@ -16,7 +16,7 @@ A classic Snake Game implemented in Python. Navigate the snake to collect food, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/snakeGame.git
+    git clone https://github.com/coreyzhao/snakeGame.git
     ```
 2. Navigate to the project directory:
     ```bash
