@@ -22,9 +22,6 @@ A classic Snake Game implemented in Python. Navigate the snake to collect food, 
     ```bash
     cd snakeGame
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 
